@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🔭 I’m currently working on building an electric vehicle
+
+🌱 I’m currently learning Kotlin and Android
+
+👯 I’m looking to collaborate on anything tech and happiness related
+
+📫 How to reach me: [twitter](https://twitter.com/johnjacobkenny)
+
 <!--
 **johnjacobkenny/johnjacobkenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
