@@ -1,14 +1,12 @@
-<img src="github-banner.png"> 
+
 
 ##  Hey there everyone <img src="wave.gif" width="22px">
 
-I am a full stack developer with 5 years of experience primarily in 
-web technologies. I am working at an e-mobility technology company and 
-at the present we are focusing our efforts into building an electric 
-motor bike.
+I am a designer at heart. I love developing human experiences that delight people. Helping others is what makes me tick. For me, software is just a means to an end.
 
-I am currently learning and working in Android with Kotlin. I love 
-learning more about improving developer happiness and productivity.
+I am good at understanding technology. I love learning new technologies because that enables me to develop the best solution across a wide range of domains. I love to make the complicated simple for everyone.
+
+I believe that a real leader goes beyond being a "team lead" or a "fellow employee". A real leader understands and cares for his team on a personal level, knows their strengths and weaknesses and strives to empower them to become the best version of themselves. ❤️
 
 Come say hi on twitter💙
 
